@@ -1,12 +1,12 @@
-## Case Study Proposal - Fintech and Networks
+# Case Study Proposal - Fintech and Networks
 
-# Overview and Origin
+## Overview and Origin
 
-# Company Name - Helium 
+## Company Name - Helium 
 
-# Founded - 2016
+## Founded - 2016
 
-# Founders:
+## Founders:
 
 1. [Amir Haleem](https://www.linkedin.com/in/amirhaleem/)
 2. [Chris Bruce](https://www.linkedin.com/in/chrisabruce/)
@@ -15,7 +15,7 @@
 
 As a side note, Shawn Fanning was the original creator of Napster, one of the most popular p2p (Peer-to-Peer) file-sharing platforms of the 1990-the 2000s, and the hero of many music lovers.  Despite being challenged and losing a court battle with the music label industry, Shawn was one of the first to adopt a decentralized p2p network.
 
-# Funding
+## Funding
 
 Fundng for Helium was raised via Coin Offerings
 1.  Aug 10, 2021
